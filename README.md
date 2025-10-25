@@ -1,27 +1,9 @@
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
-
-<details>
-<p><strong><summary> 🎧 Busy coding & vibing to: </summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ManarWageh&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManarWageh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/ManarWageh-grey?style=flat&logo=telegram)](https://t.me/) <br>
-</div>
-
-<hr>
-
-<h3 align="center">👩‍💻 Hi, I'm <strong>Manar Wageh</strong> — Flutter & React Developer 🚀</h3>
+<h1 align="center">👩‍💻 Hi, I'm Manar Wageh</h1>
+<h3 align="center">Flutter & React Developer 🚀</h3>
 
 <p align="center">
-  Passionate about building cross-platform mobile apps and modern web interfaces.  
-  I love learning, experimenting with new tech, and writing clean, maintainable code.
+  Passionate about building cross-platform mobile apps and modern web interfaces.<br>
+  I focus on clean architecture, performance, and elegant UI/UX experiences.
 </p>
 
 ---
